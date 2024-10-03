@@ -1,11 +1,11 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "Hylix-Ventross_Colony_Server",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "Terraformer_Admin",
     "defaultUser": {
-        "userId": "user",
-        "password": "",
+        "userId": "Mona",
+        "password": "Test",
         "userName": "anonymous"
     },
     "initialHistory": {
