@@ -2,10 +2,10 @@
     "serverAddress": "localhost",
     "serverName": "Hylix-Ventross_Colony_Server",
     "iconName": "Moon-icon.png",
-    "terminalID": "Terraformer",
+    "terminalID": "localhost",
     "defaultUser": {
-        "userId": "Mona",
-        "password": "Test",
+        "userId": "Test",
+        "password": "",
         "userName": "Mona"
     },
     "initialHistory": {
